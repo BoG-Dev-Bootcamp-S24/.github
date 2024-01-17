@@ -6,8 +6,8 @@ Welcome to the Dev Bootcamp S24 Organization! This is where all the course lectu
 ## Getting Started
 Here are the steps Bootcampers will take in order to get started with the Org. 
 
-- [Exercise 1](https://github.com/BoG-Dev-Bootcamp-F23/bootcamp-f23/tree/main/exer1)
-- [Exercise 2](https://github.com/BoG-Dev-Bootcamp-F23/bootcamp-f23/blob/main/exer2)
+- [Exercise 1](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/tree/main/exer1)
+- [Exercise 2](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/tree/main/exer2)
 
 ## Submitting Projects & Exercises
 Throughout this bootcamp, bootcampers will submit projects and exercises through GitHub. We will utilize GitHub Organizations to make this happen. 
