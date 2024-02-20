@@ -13,8 +13,7 @@ Here are the steps Bootcampers will take in order to get started with the Org.
 Throughout this bootcamp, bootcampers will submit projects and exercises through GitHub. We will utilize GitHub Organizations to make this happen. 
 
 **Project Repository Links**
-- TBD
-- TBD
+- [Project 1 - Marta Interface](https://github.com/BoG-Dev-Bootcamp-S24/project1-s24)
 
 At the beginning of the semester, Bootcampers should fork the `bootcamp-s24` repository in this organization. This repo contains information and starter code for lectures, exercises, and projects. Once the repo is forked, bootcampers should:
 - name the new repo `bootcamp-s24-name` in the organization
